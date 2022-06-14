@@ -32,7 +32,7 @@ body {
 header {
     height: 150px;
     background: #fff;
-    z-index: 3;
+    z-index: 4;
     position: relative
 }
 
@@ -280,7 +280,6 @@ header .phone_block .link a {
 .block_we_create .list_naves .item .img {
     width: 380px;
     height: 230px;
-    margin-bottom: 30px;
     background: #b3c1c3;
     position: relative;
     overflow: hidden;
@@ -3599,7 +3598,8 @@ form .submit:hover {
         display: none
     }
     header .phone_block .phone {
-        padding-left: 0
+        padding-left: 0;
+        padding-right: 0;
     }
     header .phone_block .phone .right {
         display: none
