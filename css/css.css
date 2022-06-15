@@ -60,13 +60,13 @@ header .logo .txt {
     float: left;
     line-height: 18px;
     letter-spacing: .025em;
-    height: 50px;
+    height: 70px;
     border-left: 1px solid #b1b7bd;
     padding-left: 30px;
     margin-left: 16px;
     box-sizing: border-box;
     padding-top: 6px;
-    margin-top: 25px
+    margin-top: 15px;
 }
 
 header .logo .txt span {
