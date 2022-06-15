@@ -11,6 +11,10 @@
     -webkit-appearance: none
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     font-family: 'PT Sans', sans-serif;
     color: #293a4f
@@ -46,7 +50,7 @@ header .logo .img {
     float: left;
     background: url(../images/logo.png) center no-repeat;
     background-size: cover;
-    width: 159px;
+    width: 147px;
     height: 97px
 }
 
@@ -2643,7 +2647,7 @@ form .submit:hover {
     box-sizing: border-box;
     text-decoration: none;
     font-weight: 700;
-    color: #000;
+    color: #fff;
     padding-top: 7px
 }
 
